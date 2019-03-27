@@ -1,0 +1,79 @@
+body{
+  direction: rtl;
+  background-image: linear-gradient(to top, #24a8cf, #28acd3, #2cafd6, #2fb3da, #33b7de);
+}
+.fnt{
+      font-family: 'Droid Arabic Kufi' ;
+  }
+.Img {
+    margin-left: 420px ;
+  }
+.radius-card{
+    border-radius: 0.25rem;
+  }
+.link-facebook{
+  text-decoration: none;
+  color: #636363;
+}  
+.link-facebook:hover{
+  text-decoration: none;
+  color: #33b7de;
+}  
+
+  .bg-white-color{
+    background-color: #ffffff;
+  }
+  .bg-blue-color{
+    background-color: #24a8cf;
+    color: #ffffff
+  }
+  .bg-blue-color:hover{
+    background-color: #33b7de;
+    color: #ebebeb
+  }
+  .bg-gray-color{
+    background-color: #ebebeb
+  }
+ .list-menu-float{
+   float:right  ;
+   text-align: right;
+ }
+  .blue-color:hover >.nav-link:hover{
+    color: #33B7DE ;
+  }
+  .coloriconfacebook{
+    color  : rgb(58, 84, 202);
+  }
+  .coloricontwitter{
+    color : rgb(77, 139, 180);
+  }
+  .coloriconyoutube{
+    color : rgb(185, 69, 49);
+  }
+  .lnk{
+    text-decoration: none ;
+  }
+.lst{
+    float: right ;
+   }
+.wallpaper{
+     height:100%;
+     width:  100%;
+   }
+.softvenue-link{
+    text-decoration: none ;
+    color: #ebebeb;
+    padding: 20px;
+    align-self: center ;
+  }
+.softvenue-link:hover{
+    text-decoration: none ;
+    color: #ffffff;
+    background-color: #33b7de;
+    border-radius: 0.25rem;
+  }
+.logo-softvenue{
+      height:32px;
+      width:  40px;
+   }
+
