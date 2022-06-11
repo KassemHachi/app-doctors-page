@@ -4,4 +4,4 @@ this page website for present app mobile for searching and showing list of the m
 <br><br>
 version : 0.0.2 :الاصدار
 <br><br>
-developed by <a href="https://github.com/KassemHachi" target="_blank"> Me </a> 
+developed by <a href="https://github.com/KassemHachi" target="_Blank"> Me </a> 
